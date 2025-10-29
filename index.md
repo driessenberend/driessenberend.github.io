@@ -11,4 +11,4 @@
 </div>
 
 ### Articles
-[Wat is MLOps?](./MLOps)
+[Wat is MLOps?](./articles/MLOps)
