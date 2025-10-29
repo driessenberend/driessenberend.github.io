@@ -5,4 +5,4 @@
 ### Projects
 
 ### Articles
-[Wat is MLOps?](./Wat is MLOps?)
+[Wat is MLOps?](./MLOps)
