@@ -11,4 +11,4 @@
 </div>
 
 ### Articles
-[Wat is MLOps?](./articles/MLOps.md)
+[Wat is MLOps?](driessenberend.github.io/articles/MLOps.md)
