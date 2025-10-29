@@ -1,3 +1,45 @@
 # add the following to _config.yml file
 title: Berend Driessen
 theme: jekyll-theme-minimal
+
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  footnote_nr: 1
+  syntax_highlighter_opts:
+    inline_theme: null
+
+plugins:
+  - jekyll-feed        # RSS
+  - jekyll-seo-tag     # SEO metalabels
+  - jekyll-sitemap     # sitemap.xml
+  - jekyll-paginate    # simpele paginatie blogindex
+
+paginate: 5
+paginate_path: "/blog/page:num"
+
+# Navigatie (voor themes die nav ondersteunen, bv. minima via header_pages)
+header_pages:
+  - pages/about.md
+  - pages/blog.md
+
+# Collectie voor korte artikelen/notes (optioneel)
+collections:
+  notes:
+    output: true
+    permalink: /notes/:name/
+
+# Defaults (bespaart front matter herhaling)
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: "notes"
+    values:
+      layout: page
