@@ -2,6 +2,9 @@
 
 ### Introduction
 
+### Articles
+[What is MLOps?](driessenberend.github.io/articles/MLOps.md)
+
 ### Projects
 <div class="project-card">
   <img src="./images/XGBoost_project.png" alt="XGBoost project" style="max-width:200px;">
@@ -10,5 +13,3 @@
   <p><a href="https://link-naar-project">View project</a></p>
 </div>
 
-### Articles
-[What is MLOps?](driessenberend.github.io/articles/MLOps.md)
