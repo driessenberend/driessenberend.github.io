@@ -25,13 +25,16 @@
   
   <div class="project-card" style="border:1px solid #ccc; padding:10px; border-radius:8px;">
     <img src="./images/project3.png" alt="Project 3" style="max-width:100%;">
-    <h4>PolicyWatch: automatic monitoring of policy documents, building files and writing policy documents. po</h4>
-    <p>1)Public service officials, public affairs professionals and journalists are spending a lot of time searching, reading and writing (policy) documents. In this project, I will explain how to leverage LLM's to make their life easier. We will be building an application that will automatically pull data from official sources and let users monitor relevant documents based on their interest. In addition to this, we will let users build files around certain topics, and leverage AI to automatically write (policy) documents based on these files and specific instructions. In summmary we will build an application that:
-    1) Synchronizes and imports policy data from various official sources such as government website API's
-    2) Build a semantic search engine to let users search through this data based on relevance
-    3) Let users build an interest profile with keywords based documents will be automatically summarized and send to them by email
-    4) Let users add documents to a file, for example around a certain topic, and let AI automatically summarize these files or let AI write policy documents based on these files and user instructions, including references</p>
-    <a href="./projects/feature-dashboard.html">View PolicyWatch project</a>
+    <p>
+    <h4>DebateTracker: a vector search AI-enhanced application for monitoring speeches in political debates </h4>
+    What arguments are politicians and their parties actually using in debates? In this project, I will explain how to leverage LLM's and semantic search to get get better insight in the political speeches of parties and individual politicians. We will be building an application that will automatically pull data from      official sources and let users discover the transcripts through a semantic search engine. In addition, users can add fragments of debates around a certain topic to a collection. In summmary we will build an application that:
+    <ul>
+        <li> (1) Synchronizes, imports and summarizes debate transcripts from sources such as Tweedekamer.nl API </li>
+        <li> (2) Let users search through this data based on relevance with the help of a semantic search engine </li>
+        <li> (3) Let users add fragments to collections around a topic of their interest </li>
+    </ul>
+    </p>
+    <a href="./projects/feature-dashboard.html">View DebateTracker project</a>
   </div>
 
   <div class="project-card" style="border:1px solid #ccc; padding:10px; border-radius:8px;">
@@ -48,7 +51,7 @@
     <a href="./projects/feature-dashboard.html">View Market Prediction project</a>
   </div>
   
-  <div class="project-card">
+  <div class="project-card" style="border:1px solid #ccc; padding:10px; border-radius:8px;">
     <img src="./images/XGBoost_project.png" alt="XGBoost project" style="max-width:200px;">
     <h4>Predicting donor churn with XGBoost</h4>
     <p>Donors that are not actually coming to their blood donation appointments are a costly endeavour for blood banks. In this project, we will therefore explain how to train an algorithm than can predict if donors come to their appointment using the XGBoost algorithm. The algorithm will suggest whether or not a donor falls into the 'high risk' category that </p>
