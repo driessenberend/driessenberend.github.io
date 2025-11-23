@@ -4,14 +4,14 @@
 
 ### Articles
 #### Technical reads
-[What is MLOps?](driessenberend.github.io/articles/MLOps.md) /n
-[What is DevOps?](driessenberend.github.io/articles/MLOps.md) /n
-[How to build great software (technically)](driessenberend.github.io/articles/MLOps.md) /n
+[What is MLOps?](driessenberend.github.io/articles/MLOps.md) <br>
+[What is DevOps?](driessenberend.github.io/articles/MLOps.md) <br>
+[How to build great software (technically)](driessenberend.github.io/articles/MLOps.md) <br>
 
 #### Non-technical reads
-[Why technical innovation is also always social innovation; a guide for real change](driessenberend.github.io/articles/MLOps.md) /n
-[UI and UX principles for a seamless user-experience](driessenberend.github.io/articles/MLOps.md) /n 
-[The Twin Transition; the architecture and role of tech in a green world](driessenberend.github.io/articles/MLOps.md) /n 
+[Why technical innovation is also always social innovation; a guide for real change](driessenberend.github.io/articles/MLOps.md) <br>
+[UI and UX principles for a seamless user-experience](driessenberend.github.io/articles/MLOps.md) <br>
+[The Twin Transition; the architecture and role of tech in a green world](driessenberend.github.io/articles/MLOps.md) <br>
 
 ### Projects
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px;">
