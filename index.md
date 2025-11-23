@@ -52,10 +52,10 @@
   </div>
   
   <div class="project-card" style="border:1px solid #ccc; padding:10px; border-radius:8px;">
-    <img src="./images/XGBoost_project.png" alt="XGBoost project" style="max-width:200px;">
     <h4>Predicting donor churn with XGBoost</h4>
     <p>Donors that are not actually coming to their blood donation appointments are a costly endeavour for blood banks. In this project, we will therefore explain how to train an algorithm than can predict if donors come to their appointment using the XGBoost algorithm. The algorithm will suggest whether or not a donor falls into the 'high risk' category that </p>
     <p><a href="https://link-naar-project">View Donor Churn project</a></p>
+    <img src="./images/XGBoost_project.png" alt="XGBoost project" style="max-width:200px;">
   </div>
 
 </div>
